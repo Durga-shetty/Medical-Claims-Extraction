@@ -51,7 +51,7 @@ langchain_ollama
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/medical-claim-extractor.git
+git clone https://github.com/Durga-shetty/Medical-Claims-Extraction.git
 cd medical-claim-extractor
 ```
 
